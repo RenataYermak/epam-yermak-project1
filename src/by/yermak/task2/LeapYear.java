@@ -6,6 +6,7 @@ public class LeapYear {
             System.out.println("Year " + year + " is leap");
         } else {
             System.out.println("Year " + year + " is not leap");
+            System.out.println();
         }
     }
 
