@@ -42,6 +42,6 @@ public class ScannerUtil {
     }
 
     public static int nextInt() {
-        return  scanner.nextInt();
+        return scanner.nextInt();
     }
 }

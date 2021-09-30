@@ -11,7 +11,3 @@ public class PerfectNumber {
         return sum == value;
     }
 }
-
-
-
-

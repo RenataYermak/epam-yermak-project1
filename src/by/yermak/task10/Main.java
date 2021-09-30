@@ -9,9 +9,9 @@ public class Main {
         double a = ScannerUtil.readDouble("Enter start segment");
         double b = ScannerUtil.readDouble("Enter finish segment");
         double h = ScannerUtil.readDouble("Enter step ");
-        Map<Double,Double> table = ValueFunction.countValueFunction(a, b, h);
+        Map<Double, Double> table = ValueFunction.countValueFunction(a, b, h);
 
-        for ( Map.Entry<Double,Double> element : table.entrySet()) {
+        for (Map.Entry<Double, Double> element : table.entrySet()) {
             System.out.println(element.getKey() + ", " + element.getValue());
         }
     }
