@@ -1,0 +1,40 @@
+by/yermak/task5/runner/Main.java
+ by.yermak.task5.runner.Main
+by/yermak/task10/runner/Main.java
+ by.yermak.task10.runner.Main
+by/yermak/task3/runner/Main.java
+ by.yermak.task3.runner.Main
+by/yermak/task8/service/FunctionService.java
+ by.yermak.task8.service.FunctionService
+by/yermak/util/ScannerUtil.java
+ by.yermak.util.ScannerUtil
+by/yermak/task7/entity/Point.java
+ by.yermak.task7.entity.Point
+by/yermak/util/DisplayUtil.java
+ by.yermak.util.DisplayUtil
+by/yermak/task2/runner/Main.java
+ by.yermak.task2.runner.Main
+by/yermak/task8/runner/Main.java
+ by.yermak.task8.runner.Main
+by/yermak/task2/service/YearService.java
+ by.yermak.task2.service.YearService
+by/yermak/util/NumberUtil.java
+ by.yermak.util.NumberUtil
+by/yermak/task3/service/SquareService.java
+ by.yermak.task3.service.SquareService
+by/yermak/task6/runner/Main.java
+ by.yermak.task6.runner.Main
+by/yermak/task4/runner/Main.java
+ by.yermak.task4.runner.Main
+by/yermak/task1/runner/Main.java
+ by.yermak.task1.runner.Main
+by/yermak/task6/service/TimeCountService.java
+ by.yermak.task6.service.TimeCountService
+by/yermak/task9/service/CircleService.java
+ by.yermak.task9.service.CircleService
+by/yermak/task7/runner/Main.java
+ by.yermak.task7.runner.Main
+by/yermak/task9/runner/Main.java
+ by.yermak.task9.runner.Main
+by/yermak/task4/service/NumberService.java
+ by.yermak.task4.service.NumberService
