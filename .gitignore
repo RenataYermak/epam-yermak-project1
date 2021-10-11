@@ -1,0 +1,6 @@
+# Project exclude paths
+/epam-yermak-project1/.gradle/
+/epam-yermak-project1/.idea/
+/epam-yermak-project1/build/
+/epam-yermak-project1/gradle/
+/epam-yermak-project1/out/
